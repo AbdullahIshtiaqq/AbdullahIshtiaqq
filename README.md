@@ -17,12 +17,13 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
-- :books: Final Year Student at PUCIT, Lahore
-- :telescope: Working as a Trainee Software Engineer at Folio3
-- :speaking_head: Tech Lead at GDSC
-- :zap: Thrive in Competitive Programming
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AbdullahIshtiaqq-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahishtiaqq/)
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan. Currently, I'm in my final year as a software engineering student at PUCIT, Lahore, and I'm also gaining hands-on experience as a Trainee Software Engineer at Folio3. Besides that, I proudly serve as the Tech Lead at GDSC (Google Developer Student Clubs), where I foster a community of tech enthusiasts.
+
+#### 💼 What I Do
+
+- ⚡ Competitive Programming
+- 🌐 Web Development
+- 📊 Machine Learning
 
 ---
 
@@ -38,6 +39,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDb" alt="mongoDb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="graphql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="pytorch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
